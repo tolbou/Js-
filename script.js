@@ -27,7 +27,7 @@ clearText.addEventListener("click", () => {
 });
 
 
-// javascript_2
+// javascript_2a
 
 
 
