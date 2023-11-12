@@ -1,3 +1,5 @@
+// javascript_1
+
 function createParagraph() {
     const para = document.createElement("p");
     para.textContent = "ボタンが押されました!";
@@ -23,5 +25,9 @@ const clearText = document.body.querySelector("#clear-text");
 clearText.addEventListener("click", () => {
   story.textContent = "";
 });
+
+
+// javascript_2
+
 
 
